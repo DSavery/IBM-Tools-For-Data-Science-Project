@@ -1,0 +1,46 @@
+{
+ "cells": [
+  {
+   "cell_type": "markdown",
+   "id": "20693e4b-b115-45da-a92d-10912a187022",
+   "metadata": {},
+   "source": [
+    "There are Many Data Sciences Libraries in use in the actual date.\n",
+    "In this Note i am presenting the most used in Data Science.\n",
+    "\n",
+    "### Pyhon Libraries\n",
+    "\n",
+    "1-Tensor Flow\n",
+    "\n",
+    "2-Numpy\n",
+    "\n",
+    "3-Pandas\n",
+    "\n",
+    "4-Matplotlit\n",
+    "\n",
+    "There exist many other."
+   ]
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python",
+   "language": "python",
+   "name": "conda-env-python-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.7.12"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
